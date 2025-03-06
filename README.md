@@ -48,7 +48,6 @@ The data analysis was conducted using Python and the following libraries:
 - **Matplotlib:** For creating static visualizations.
 - **Seaborn:** For enhanced data visualizations.
 - **SciPy:** For statistical analysis.
-- **Warnings:** To suppress non-critical warnings.
 
 ---
 
